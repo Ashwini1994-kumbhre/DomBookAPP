@@ -1,0 +1,14 @@
+#navbar{
+    width: 100;
+    gap: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    padding: 30;
+    background-color:aqua;
+    color: white;
+    margin: auto;
+    
+
+}
